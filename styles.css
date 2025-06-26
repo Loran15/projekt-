@@ -1,0 +1,43 @@
+h1{
+    color: white;
+}
+
+
+
+h3{
+  color: rgb(251, 2, 2);
+  font-size:30px ;  
+}
+
+
+body{
+background-color: black;
+font-family:20px ;
+padding:20px ;
+
+
+}
+
+p{
+ color: rgb(246, 241, 241);
+ font-size: 20px;
+}
+
+img{
+ border-radius:10px ; 
+color: white;
+}
+
+h2{
+color: white;    
+}
+
+ul{
+ color: white;
+ font-size:20px ; 
+  
+}
+
+div{
+ text-align: center;   
+}
